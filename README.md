@@ -1,7 +1,7 @@
 echo '# 🌍 Flutter Planets App - Solar System Explorer
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sourcegraph/sourcegraph/main/client/branded/src/assets/img/sourcegraph-mark.svg" width="200" alt="Planets App Logo">
+  <img src="[https://raw.githubusercontent.com/sourcegraph/sourcegraph/main/client/branded/src/assets/img/sourcegraph-mark.svg](https://p1.hiclipart.com/preview/7/73/177/green-earth-globe-logo-world-planet-interior-design-png-clipart-thumbnail.jpg)" width="200" alt="Planets App Logo">
 </p>
 
 <p align="center">
