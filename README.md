@@ -8,7 +8,7 @@ echo '# 🌍 Flutter Planets App - Solar System Explorer
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
   <a href="https://github.com/Salman-Farid/flutter_planets_app/stargazers"><img src="https://img.shields.io/github/stars/Salman-Farid/flutter_planets_app" alt="Stars"></a>
 </p>
-Here's an enhanced and beautifully formatted **README** for the requested section:
+
 
 ---
 
@@ -123,5 +123,3 @@ Special thanks to:
 - Subscribe to our [**Newsletter**](#)
 
 --- 
-
-Let me know if you'd like to modify or add anything!
